@@ -1,0 +1,14 @@
+{
+  "target_url": "https://api.example.com/endpoint",
+  "method": "POST",
+  "headers": {
+    "Authorization": "Bearer YOUR_API_KEY",
+    "Content-Type": "application/json"
+  },
+  "body": {
+    "message": "This is a test message from Farzaneh Sedarati.",
+    "sender": "Farzaneh Sedarati",
+    "timestamp": "2025-08-05T17:45:00Z"
+  }
+}
+
