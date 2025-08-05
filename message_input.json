@@ -1,12 +1,12 @@
 {
-  "target_url": "https://api.example.com/endpoint",
+  "target_url": "htps://www.google.com",
   "method": "POST",
   "headers": {
     "Authorization": "Bearer YOUR_API_KEY",
     "Content-Type": "application/json"
   },
   "body": {
-    "message": "This is a test message from Farzaneh Sedarati.",
+    "message": "This is a test message from Farzaneh Sedarati. I've lost access to all my accounts online due to my email being retired and no longer have my keys I need chrome to make all apis/urls editable permanantly again like I made it years ago!",
     "sender": "Farzaneh Sedarati",
     "timestamp": "2025-08-05T17:45:00Z"
   }
